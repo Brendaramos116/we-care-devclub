@@ -17,13 +17,14 @@ A landing page apresenta:
 - **Google Fonts** (Montserrat)
 
 ## 📁 Estrutura do Projeto
-
+````
 we-care/
 ├── index.html
 ├── styles.css
 └── img/
-└── Illustration 2.png
-
+    └── Illustration 2.png
+    └── weCare.png
+````
 
 ## 💡 Funcionalidades
 
